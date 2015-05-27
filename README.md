@@ -6,7 +6,7 @@ Date: 2015-05-27
 Version: 1.0  
 
 This is a simple implementation of MinCounter algorithm.  
-For more details about MinCounter algorithm,  you can read our paper "MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems" on MSST 2015.
+For more details about MinCounter algorithm,  you can read our paper *"MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems"* on MSST 2015.
 
 
 ### Usage  
