@@ -12,9 +12,9 @@ For more details about MinCounter algorithm,  you can read our paper "MinCounter
 ### Usage  
 
 - Compile   
-    `$g++ cuckoo-main.cpp -o cuckoo`
+    `$ g++ cuckoo-main.cpp -o cuckoo`
 - Run    
-    `./cuckoo max_loop init_rate file_name`
+    `$ ./cuckoo max_loop init_rate file_name`
 
     Parameters: 
     * `max_loop`: when inserting a new element, if the times of kicking elements out is equal to max_loop, we think there is an infinite loop.
