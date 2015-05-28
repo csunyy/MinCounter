@@ -23,7 +23,6 @@ minCounter code :
    The introduction of each .cpp or .h within minCounter below:
    cuckoo.hpp : this mainly implements the minCounter algorithm. More details have been mentioned at the above introduction.
    cuckoo-main.cpp : this includes the main function to examine minCounter. Moreover, it also includes three hash functions and some other functions.
-   shra.sh :it is a shell linux. It introduces the input format of parameters and the ways to run the minCounter.  
    
    More information about minCounter algorithm you can get from the paper "MinCounter: An Efficient Cuckoo Hashing Scheme for Cloud Storage Systems" on MSST 2015.
    
