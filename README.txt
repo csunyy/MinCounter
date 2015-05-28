@@ -30,7 +30,7 @@ This section introduces the ways to run the minCounter and the input format of p
     compile: g++ *.cpp -o cuckoo
 	run: ./cuckoo max_loop init_rate file_name
     input parameters: 
-    	A) max_loop: when inserting a new element, if the times of kickinh-out is equal to max_loop, we think there is an infinite loop.
+    	A) max_loop: when inserting a new element, if the times of kicking-out is equal to max_loop, we think there is an infinite loop.
     	B) init_rate: when initiating the hash table, we set the size of hash table be equal to the size of dataset  multiplied by init_rate.
 	C) file_name: dataset file.
    
