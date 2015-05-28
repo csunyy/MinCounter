@@ -1,7 +1,7 @@
 
-#@author yuanyuanSun lingYang
-#@date 2015-05-27
-#@version 1.0
+Author: Yuanyuan Sun, Ling Yang
+Date: 2015-05-27
+Version: 1.0
 
 This program implements our minCounter algorithm . We reference the basic code (more information introduced below) and have some modifications based on the basic code. 
 
